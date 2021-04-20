@@ -11,4 +11,5 @@ El segundo componente consiste en indicar que tecnologías saben utilizar y con 
 Skills:
   - Pueden mostrarlas en un carousel (puenden usar una librería)
   - Pueden animarla con un flip (al pasar el mouse por encima el logo se da vuelta y nos muestra el nombre del mismo)
+
 ![Muestra Modulo 2](https://res.cloudinary.com/sebasec/image/upload/v1618870660/M%C3%B3dulo_2_t3xbvk.png)

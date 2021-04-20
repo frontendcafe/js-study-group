@@ -1,5 +1,5 @@
 # Módulo 2 
-Felicidades por llegar al módulo 2!! En este módulo van a hablar un poco sobre ustedes y sus habilidades.
+Felicidades por llegar al módulo 2!! En este módulo van a hablar un poco sobre ustedes y sus habilidades. Tienen dos semanas para realizarlo, el lunes 3 de mayo en el canal de voz hacemos una puesta en común.
 
 ## Componentes
 Éste módulo consiste de 2 componentes. El primero es el "About me" donde pueden escribir en un breve párrafo algo interesante sobre ustedes o algo que crean que los destaca del resto.

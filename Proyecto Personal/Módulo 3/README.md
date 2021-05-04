@@ -12,6 +12,7 @@ Esta sección va a continuación del módulo anterior, con lo cual el pasaje ent
 
 ## Ideas extra (opcionales)
 
+- Utilizar un patrón para la sección de proyectos | [Patrones](https://www.toptal.com/designers/subtlepatterns/)
 - Pueden obtener los proyectos de una base de datos como firebase, o hacer uso de un headless cms como sanity. (Avanzado)
 
 ![Muestra Módulo 3](https://res.cloudinary.com/sebasec/image/upload/v1620084328/M%C3%B3dulo3_yg4avh.png)
